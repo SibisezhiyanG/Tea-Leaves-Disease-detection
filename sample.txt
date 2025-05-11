@@ -1,0 +1,47 @@
+Tea leaf diseases have had a substantial impact both 
+on the quantity and quality of the tea produced. The high
+precision automatic detection and identification of illnesses 
+that can be found in tea leaves is beneficial to the accurate 
+prevention and control of those diseases. Manual procedures, 
+which require a lot of time and effort, are still the primary tool 
+for diagnosing tea illnesses and determining the severity of 
+their effects and also effect the agriculture. This situation has 
+persisted for some time. It is helpful to the tea leaf disease 
+prevention and control efforts to have accurate and speedy 
+disease detection. This research presents a technique for tea 
+leaf disease classification that is based on an improved version 
+of a deep convolutional neural network. This project aims to 
+develop a deep convolutional neural network model capable of 
+identifying diseases affecting tea plants based on image sets of 
+their leaves. The results of the studies indicate that the 
+proposed method has an average identification accuracy of 
+73%, which is higher than the accuracy of more conventional 
+manual approaches. In later applications, the CNN model was 
+utilized to improve the diagnostic measurement of tea leaves as 
+well as the measurement of leaves from other plants. 
+
+Tea is one of the popular and widely cultivated 
+plantation crops in Tamil Nadu. Their productions are affected 
+by different diseases that affect them. The quality of the tea 
+leaves and bud needs to be monitored to increase the profit. In 
+this paper a model is implemented using deep learning and 
+machine learning techniques to detect the common diseases that 
+affect the tea leaves and to classify the tea bud whether they are 
+in the right stage to be plucked or not which signifies the high
+quality and low-quality bud respectively. In this project two 
+algorithms namely CNN and SVM are implemented using real 
+time dataset. Since deep learning requires a large dataset for 
+training. 1050 images for tea leaves disease detection and 262 
+images for tea bud classification are collected in real time and 
+augmentation on these images is carried out to increase the 
+number of input images. In CNN Dense-Net Architecture 121 
+and 201 are implemented for disease and bud classification 
+which with deep convolution layers gives a high accuracy of 
+96.703% and 96.923% respectively. In SVM the same 
+convolution model is built and converted into an SVM kernel 
+which gives better results than regular implementation with an 
+accuracy as 65.934% and 73.077% for disease and bud 
+classification respectively. Evaluation metrics such as 
+Accuracy, Loss, Precision, Recall, F1 Score, Mean Square 
+Error, Mean Absolute Error, Specificity and Sensitivity of the 
+model were analyzed.
